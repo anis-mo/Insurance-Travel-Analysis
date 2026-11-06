@@ -138,9 +138,11 @@ The dashboard helps users explore:
 
 This project demonstrates how Microsoft Power BI can transform travel insurance data into an interactive dashboard. It combines KPIs, charts, and slicers to support the exploration of sales performance, claims distribution, travel destinations, insurance products, and policy duration.
 
-## 📚 Dataset
+📚 Dataset & License
 
-Source: "Travel Insurance Dataset – Kaggle" (https://www.kaggle.com/datasets/mhdzahier/travel-insurance)
+- Source: "Travel Insurance Dataset – Kaggle" (https://www.kaggle.com/datasets/mhdzahier/travel-insurance)
+- Database License: "Open Database License (ODbL) 1.0" (https://opendatacommons.org/licenses/odbl/1-0/)
+- Database Contents License: "Database Contents License (DbCL) 1.0" (https://opendatacommons.org/licenses/dbcl/1.0/)
 
 ## 👨‍💻Author
 
