@@ -105,7 +105,7 @@ Negative duration records are displayed separately to make unusual values visibl
 
 ## Dashboard Preview
 
-![Insurance Analytics Dashboard](Images/Insurance_Dashboard.png)
+![Insurance Analytics Dashboard](Insurance_Dashboard.png)
 
 ## 🎛️Interactive Slicers
 
